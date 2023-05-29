@@ -1,3 +1,3 @@
 # Table of contents
 
-* [کتاب یادگیری آماری](README.md)
+* [مقدمه ای بر زبان R](README.md)
