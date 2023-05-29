@@ -1,0 +1,9 @@
+{
+  "plugins": ["latex"],
+  "pluginsConfig": {
+    "latex": {
+      "engine": "pdflatex",
+      "packages": ["amsmath", "amssymb"]
+    }
+  }
+}
